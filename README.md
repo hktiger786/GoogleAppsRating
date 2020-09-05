@@ -5,3 +5,6 @@ jupyter is used to write the python code so if you want to run this you need to 
 
 The comments on the steps will help you understand the steps in details.
 The size of the dataset is around 11K.
+
+Resource Used:
+Github Link: https://github.com/DivyaThakur24/GoogleAppRating-DataAnalysis
